@@ -4,7 +4,7 @@ Social energy reservoir
 :date: 2021-4-22 21:00
 
 `zola` 好像也蠻好用的，只是不支援 rst. 但我也只是因為想碰 rust 而用而已，找個題目練習比較實在，或許
-就是幫 `zola` 加上 rst 支援？也可能從 `awesome-katas` 找吧。但`zola` 的 `after-dark` 還蠻好看的，
+就是幫 `zola` 加上 rst 支援？也可能從 `awesome-katas` 找吧。但 `zola` 的 `after-dark` 還蠻好看的，
 找個時間 port 過來。反倒是 `pelican` 這的 theme 好像不怎麼更新了。
 
 今天接到了英文補習班的電話，電話中聊得蠻來的，所以抱持著聊天的心態出門走走。前面一直講台語還
